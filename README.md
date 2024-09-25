@@ -3,7 +3,7 @@
 Bem vindo a minha atividade de ReactJS! 🚀
 Welcome to my ReactJS activity! 🚀
 
-Acesse o Deploy clicando [aqui](https://ts-kenziehub.vercel.app)
+Acesse o Deploy clicando [aqui](https://kenzie-hub-eight-steel.vercel.app/)
 
 # 🚀 Tecnologias utilizadas / Technologies used
 
